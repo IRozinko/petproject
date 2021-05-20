@@ -1,2 +1,2 @@
 # petproject
-Pet project connected with 
+Pet project connected with Spotify
